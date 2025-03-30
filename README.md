@@ -1,6 +1,5 @@
 ## Hi there! Welcome to RayOInTech 👋
-About ME:
-Masters Degree in Cybersecurity
+Masters Degree in Cybersecurity &
 Bachelor's Degree in Computer Programming 
   - 🔭 Work with me on Encryption and Decryption Protocols
   - 🤔 I’m looking for help with Content Creation
