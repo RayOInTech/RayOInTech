@@ -1,8 +1,7 @@
-## Hi there 👋
-Welcome to RayOInTech.
-  - 🔭 I’m currently working on Encryption and Decryption Protocols
-  - 🌱 I’m currently learning Cybersecurity
-  - 👯 I’m looking to collaborate on Cybersecurity
+## Hi there Welcome to RayOInTech 👋
+ [Masters Degree in Cybersecurity]
+  - 🔭 I’m working on Encryption and Decryption Protocols
+  - 🌱  - 👯 I’m looking to collaborate on Cybersecurity
   - 🤔 I’m looking for help with Content Creation 
   - 💬 Ask me about Cybersecurity!!!
   - 📫 How to reach me: Email and Social Media Platforms
